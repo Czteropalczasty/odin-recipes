@@ -1,0 +1,26 @@
+h1{
+    color:#2A255C;
+}
+
+h2{
+    color:#3558AE;
+    font-size: 28px;
+}
+
+li{
+    color:#C7A9D4;
+}
+
+a{
+    color: #F9C3D7 ; 
+}
+
+body{
+    background-color: #B64074;
+    text-align: center;
+}
+
+
+.aligncenter {
+    text-align: center;
+}
